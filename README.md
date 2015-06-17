@@ -1,10 +1,7 @@
 # side_nav
 Katik Side nav modification with database in json value
 
-Controllers Set:
-================
-
-
+Controllers Set
 use lukisongroup\models\system\side_menu\M1000;
 
 public function actionIndex()
@@ -18,8 +15,6 @@ public function actionIndex()
 
 
 View Set with kartik side nav:
-==============================
-
 use kartik\sidenav\SideNav;
 
 <aside class="main-sidebar">
